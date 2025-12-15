@@ -1,0 +1,6 @@
+database-backend/node_modules/
+core-engine/node_modules/
+database-backend/package-lock.json
+core-engine/package-lock.json
+database-backend/.env
+core-engine/.env
